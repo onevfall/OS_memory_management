@@ -53,15 +53,15 @@ npm run serve
 
 出现以下页面，即可成功运行：
 
-![image-20220607114540282](C:\Users\暗香君\AppData\Roaming\Typora\typora-user-images\image-20220607114540282.png)
-
-
+![image](src/assets/1.png)
 
 ## 五. 项目功能
 
 该项目为基于vue框架的前端网页。网页的初始页面如下图所示：
 
-![image-20220607115020464](C:\Users\暗香君\AppData\Roaming\Typora\typora-user-images\image-20220607115020464.png)
+![image](src/assets/ui.png)
+
+
 
 实现了以下的核心功能：
 
